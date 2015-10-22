@@ -1,0 +1,46 @@
+return {
+	["EnemyHitBoxes"] = {
+		["TimeSaved"] = 193.9408416748,
+		["Data"] = {
+			["Veigar"] = 203.64675298173,
+			["Gangplank"] = 168.52619547084,
+			["Garen"] = 182.96318909805,
+			["TwistedFate"] = 135.12023379754,
+			["Janna"] = 207.58279658794,
+			["Nunu"] = 243.86690383154,
+			["LeeSin"] = 178.4063554564,
+			["FiddleSticks"] = 236.32765399073,
+			["Renekton"] = 275.77164466275,
+			["Teemo"] = 147.7425041621,
+		},
+	},
+	["FarmOffsetType"] = {
+		["Janna"] = 1,
+	},
+	["WindUpAmount"] = {
+		["Janna"] = 0,
+	},
+	["ArcaneBlade"] = {
+		["Janna"] = false,
+	},
+	["Butcher"] = {
+		["Janna"] = false,
+	},
+	["WindUpType"] = {
+		["Janna"] = 1,
+	},
+	["DevastatingStrikes"] = {
+		["Janna"] = 0,
+	},
+	["StreamingMode"] = false,
+	["FarmOffsetAmount"] = {
+		["Janna"] = 0,
+	},
+	["TargetSelectorMode"] = 8,
+	["DoubleEdgedSword"] = {
+		["Janna"] = false,
+	},
+	["Havoc"] = {
+		["Janna"] = false,
+	},
+}

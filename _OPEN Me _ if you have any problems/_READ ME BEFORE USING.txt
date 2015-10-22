@@ -1,0 +1,16 @@
+To make sure you have a fresh BoL installation please do the following steps.
+
+1. If this is your first time using BoL or you want to make sure you have the proper prerequisites for it's use please run "Pre Req Installer.bat" by right clicking on it and pressing 'Run as administrator'.
+2. Run 'Run me first as administrator' by right clicking on it and pressing 'Run as administrator'.
+
+If you get 'Failed to login' after this
+Open BoL Studio.exe and try to login (you will get failed to download on your first try)
+Close BoL Studio.exe
+Reopen BoL Studio.exe and try to login.
+
+If you still get Failed to login after that change your password here http://forum.botoflegends.com/index.php?app=core&module=usercp&tab=core&area=email 
+to only include only uppercase, lowercase and numbers.
+
+Then request a HWID reset here http://forum.botoflegends.com/topic/46046-official-hwid-reset-topic/
+
+-KorteX
