@@ -86,3 +86,17 @@ Dancing Shoes.lua
 
 Auto Shield.lua
 - Any Champion with a heal or shield of any sort. This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.
+
+Sida's Auto Carry
+- Plays the lane for you to the best of its' abilities, and supports every champion. Visit http://forum.botoflegends.com/topic/6584- for more information.
+- Any Champion.
+
+Challenger Series
+- A work-in-progress script based on Sida's Auto Carry (must be run at the same time) to try to improve the potential of what the script can achieve.
+- Ashe
+- Corki
+- Graves
+- Lucian
+- Tristana
+- Vayne
+
