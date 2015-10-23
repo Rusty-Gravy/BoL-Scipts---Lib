@@ -105,7 +105,7 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Any Champion with a heal or shield of any sort. *This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.*
 
 **Sida's Auto Carry**
-- *Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information.*
+- *Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information. This script is VIP/PAID only, however you can run the open beta for the ChallengerSeries.lua for free.*
 - Any Champion.
 
 **Challenger Series**
