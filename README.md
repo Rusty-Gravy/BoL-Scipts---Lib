@@ -72,6 +72,30 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Warwick
 - Xin Zhao
 
+**SupportHeroes.lua**
+- *A bundle for supports, quite good in my opinion but for some Champions there are better alternatives. Visit http://forum.botoflegends.com/topic/80155- for information.*
+- Alistar
+- Annie
+- Bard
+- Blitzcrank
+- Braum
+- Janna
+- Karma
+- Leona
+- Lulu
+- Lux
+- Malphite
+- Nautilus
+- Nunu
+- Shen
+- Sona
+- Soraka
+- Tahm Kench
+- Taric
+- Thresh
+- Zilean
+- Zyra
+
 **Dancing Shoes.lua**
 - *Used for automatic evasion. Test in a custom game first so you can get used to it and understand what it is. People have been banned or humiliated on Youtube for using these types of things too much because it can be obvious in some cases.*
 - All Champions!
