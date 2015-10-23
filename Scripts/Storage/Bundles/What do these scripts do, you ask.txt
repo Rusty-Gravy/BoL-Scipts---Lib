@@ -88,11 +88,11 @@ Auto Shield.lua
 - Any Champion with a heal or shield of any sort. This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.
 
 Sida's Auto Carry
-- Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information. This script is VIP/PAID only, however you can run the open beta for the ChallengerSeries.lua for free.
+- Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information.
 - Any Champion.
 
 Challenger Series
-- A work-in-progress script based on Sida's Auto Carry (must be run at the same time) to try to improve the potential of what the script can achieve. Open beta. Visit http://forum.botoflegends.com/topic/64012- for more information.
+- A work-in-progress script based on Sida's Auto Carry (must be run at the same time) to try to improve the potential of what the script can achieve. Visit http://forum.botoflegends.com/topic/64012- for more information.
 - Ashe
 - Corki
 - Graves
