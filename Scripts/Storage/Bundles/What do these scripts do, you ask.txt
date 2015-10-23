@@ -88,7 +88,7 @@ Auto Shield.lua
 - Any Champion with a heal or shield of any sort. This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.
 
 Sida's Auto Carry
-- Plays the lane for you to the best of its' abilities, and supports every champion. Visit http://forum.botoflegends.com/topic/6584- for more information.
+- Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information.
 - Any Champion.
 
 Challenger Series
