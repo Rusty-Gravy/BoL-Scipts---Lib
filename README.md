@@ -20,7 +20,7 @@ This folder is used for scripts that would be in 'Storage', however they are not
 Below is a list of the scripts within 'Bundles' and the champions they apply for.
 
 **Scriptology.lua** 
-*Visit http://forum.botoflegends.com/topic/60831-scriptology-520/ for specific information on champion scripts.*
+- *Visit http://forum.botoflegends.com/topic/60831-scriptology-520/ for specific information on champion scripts.*
 - Ashe 
 - Ahri
 - Azir
@@ -44,7 +44,7 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Yasuo
 
 **Jungler Slack.lua** 
-*A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported.*
+- *A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported.*
 - Akali 
 - Amumu
 - Darius
@@ -73,11 +73,11 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Xin Zhao
 
 **Dancing Shoes.lua**
-*Used for automatic evasion. Test in a custom game first so you can get used to it and understand what it is. People have been banned or humiliated on Youtube for using these types of things too much because it can be obvious in some cases.*
+- *Used for automatic evasion. Test in a custom game first so you can get used to it and understand what it is. People have been banned or humiliated on Youtube for using these types of things too much because it can be obvious in some cases.*
 - All Champions!
 
 **Auto Shield.lua**
-*Used for automatically shielding yourself from either auto-attacks or from abilities that would otherwise kill you. Test in a custom game first.*
+- *Used for automatically shielding yourself from either auto-attacks or from abilities that would otherwise kill you. Test in a custom game first.*
 - Any Champion with a heal or shield of any sort. *This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.*
 
 ###Script Manager
