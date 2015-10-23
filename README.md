@@ -44,7 +44,7 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Yasuo
 
 **Jungler Slack.lua** 
-- *A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported.*
+- *A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported. Visit http://forum.botoflegends.com/topic/11331- for more information on which champions struggle.*
 - Akali 
 - Amumu
 - Darius
