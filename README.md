@@ -19,8 +19,8 @@ Here is where you will find all the libraries and useful scripts that other scri
 This folder is used for scripts that would be in 'Storage', however they are not champion specific.
 Below is a list of the scripts within 'Bundles' and the champions they apply for.
 
-######Scriptology.lua
-_**Visit http://forum.botoflegends.com/topic/60831-scriptology-520/ for specific information on champion scripts.**_
+**Scriptology.lua** 
+- *Visit http://forum.botoflegends.com/topic/60831-scriptology-520/ for specific information on champion scripts.*
 - Ashe 
 - Ahri
 - Azir
@@ -43,8 +43,8 @@ _**Visit http://forum.botoflegends.com/topic/60831-scriptology-520/ for specific
 - Veigar
 - Yasuo
 
-######Jungler Slack.lua
-_**A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported.**_
+**Jungler Slack.lua** 
+- *A semi-bot used for farming the jungle that needs a little baby-sitting. Buying items and ganking has to be manual. Some champions have difficulty jungling, even though they're supported. Visit http://forum.botoflegends.com/topic/11331- for more information on which champions struggle.*
 - Akali 
 - Amumu
 - Darius
@@ -72,12 +72,12 @@ _**A semi-bot used for farming the jungle that needs a little baby-sitting. Buyi
 - Warwick
 - Xin Zhao
 
-######Dancing Shoes.lua
-_**Used for automatic evasion. Test in a custom game first so you can get used to it and understand what it is. People have been banned or humiliated on Youtube for using these types of things too much because it can be obvious in some cases.**_
+**Dancing Shoes.lua**
+- *Used for automatic evasion. Test in a custom game first so you can get used to it and understand what it is. People have been banned or humiliated on Youtube for using these types of things too much because it can be obvious in some cases.*
 - All Champions!
 
-######Auto Shield.lua
-_**Used for automatically shielding yourself from either auto-attacks or from abilities that would otherwise kill you. Test in a custom game first.**_
+**Auto Shield.lua**
+- *Used for automatically shielding yourself from either auto-attacks or from abilities that would otherwise kill you. Test in a custom game first.*
 - Any Champion with a heal or shield of any sort. *This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.*
 
 ###Script Manager
