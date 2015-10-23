@@ -1,177 +1,283 @@
 return {
-	["myVision_ally"] = {
-		["_tsInstances"] = {
-		},
-		["active"] = true,
+	["sidasacmain_sidasacsubhumanizer"] = {
+	},
+	["HTTF Prediction_Collision"] = {
+	},
+	["sidasacmain_sidasacskills_WZephyr"] = {
+		["LaneClear"] = false,
 		["_param"] = {
 		},
-		["buffs"] = false,
-		["spells"] = true,
+		["_tsInstances"] = {
+		},
+		["towerFarm"] = false,
+		["Jungle"] = false,
+		["AutoCarryMana"] = 0,
+		["AutoCarry"] = true,
+		["LaneClearMana"] = 0,
+		["Killsteal"] = false,
+		["MixedMode"] = true,
+		["LaneClearFarmStyle"] = 1,
+		["MixedModeMana"] = 0,
 	},
-	["sidasacmain_sidasacpets"] = {
+	["HTTF Blitzcrank_Draw"] = {
+		["Hitchance"] = true,
+		["Path"] = false,
+		["On"] = true,
+		["R"] = true,
+		["AA"] = true,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Q"] = true,
 	},
-	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
+	["Dancing Shoes_DrawSub"] = {
 	},
 	["sidasacmain_sidasacfarming_sidasacpredictionfarm"] = {
 	},
-	["Zopper_ks"] = {
+	["Thresh_orb_general"] = {
 	},
-	["myVision_enemy"] = {
+	["Zopper_ult"] = {
 	},
-	["myVision"] = {
+	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
 	},
-	["Dancing Shoes_Flash"] = {
+	["Thresh_orb_TS_prioritySettings"] = {
 	},
-	["sidasacmain_sidasacdrawing_sidasacother"] = {
-	},
-	["HTTF Prediction"] = {
-	},
-	["SxOrb_farm"] = {
-	},
-	["sidasacmain_sidasacskills"] = {
-	},
-	["sidasacmain_sidasacmelee"] = {
-	},
-	["SxOrb_general"] = {
-	},
-	["sidasacmain_sidasacadvanced"] = {
-	},
-	["Master"] = {
-		["x"] = 19,
-		["I1"] = 5,
-		["py"] = 864,
-		["PS1"] = 0,
-		["name1"] = "VPrediction",
-		["useTS"] = true,
-		["P1"] = 12,
-		["iCount"] = 1,
-		["osTime"] = 1445442408,
-		["px"] = 1267,
-		["y"] = 492,
-	},
-	["Dancing Shoes_Keys"] = {
-	},
-	["SxOrb_TS"] = {
+	["Dancing Shoes"] = {
 	},
 	["sidasacmain_sidasacitems_sidasaclaneclearitemssub"] = {
 	},
-	["sidasacmain_sidasacexperimental"] = {
+	["Thresh_keys"] = {
 	},
-	["sidasacmain_sidasacdrawing_sidasacminionhealthsub"] = {
+	["sidasacmain_sidasacsetup_sidasacautocarrysub"] = {
 	},
-	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
+	["HTTF Blitzcrank_Draw_Target"] = {
 	},
-	["Zopper_draw"] = {
+	["sidasacmain_sidasacpets"] = {
 	},
-	["sidasacmain_sidasacskills_QHowlingGale"] = {
-		["LaneClearFarmStyle"] = 1,
-		["towerFarm"] = false,
-		["AutoCarryMana"] = 0,
-		["MixedMode"] = true,
-		["_tsInstances"] = {
-		},
-		["LaneClear"] = false,
-		["Killsteal"] = false,
-		["MixedModeMana"] = 0,
-		["LaneClearMana"] = 0,
-		["Jungle"] = false,
-		["AutoCarry"] = true,
+	["Thresh_orb_mastery"] = {
+	},
+	["Thresh_cmb"] = {
+		["q1"] = 3,
+		["q2"] = 1,
+		["flayc"] = 1,
 		["_param"] = {
 		},
+		["cage"] = 1,
+		["flayamount"] = 1,
+		["heal"] = 1,
+		["aflay"] = 1,
+		["boxamount"] = 2,
+		["_tsInstances"] = {
+		},
+		["flay"] = 2,
 	},
-	["sidasacmain_sidasacconfig"] = {
+	["SxOrb_mastery"] = {
+	},
+	["SxOrb_debug"] = {
+	},
+	["HTTF Blitzcrank_BlackList_Harass"] = {
+	},
+	["SxOrb_TS"] = {
+	},
+	["Thresh_draw"] = {
+		["drawT"] = true,
+		["qLine"] = true,
+		["drawC"] = true,
+		["bRange"] = false,
+		["qRange"] = true,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["aaRange"] = false,
+	},
+	["myVision_enemy"] = {
+	},
+	["SxOrb_keys"] = {
+	},
+	["HTTF Blitzcrank_Draw_PP"] = {
+	},
+	["HTTF Blitzcrank_Misc"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
+	},
+	["HTTF Blitzcrank_Flee"] = {
+	},
+	["HTTF Blitzcrank_KillSteal"] = {
+		["On"] = true,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Q"] = true,
+	},
+	["HTTF Blitzcrank_JSteal"] = {
+	},
+	["SxOrb_color"] = {
+	},
+	["Dancing Shoes_Spells"] = {
 	},
 	["VPrediction_Developers"] = {
 	},
-	["SxOrb_keys_toggle"] = {
+	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
 	},
-	["myVision_general"] = {
+	["HTTF Blitzcrank_Harass"] = {
 	},
-	["sidasacmain_sidasacsubstream"] = {
+	["HTTF Prediction"] = {
 	},
-	["sidasacmain_sidasacsubhumanizer"] = {
+	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
 	},
-	["Zopper_combo"] = {
+	["sidasacmain_sidasachotkeys"] = {
+	},
+	["Thresh_orb_TS"] = {
 	},
 	["Menu"] = {
-		["pDraw"] = {
-			["x"] = 1267,
-			["y"] = 864,
-		},
 		["draw"] = {
 			["x"] = 19,
 			["y"] = 492,
 		},
+		["pDraw"] = {
+			["x"] = 1267,
+			["y"] = 864,
+		},
 		["menuKey"] = 16,
 	},
-	["Dancing Shoes"] = {
+	["Master"] = {
+		["useTS"] = false,
+		["PS1"] = 0,
+		["name1"] = "HTTF Prediction",
+		["P1"] = 6,
+		["osTime"] = 1445552066,
+		["x"] = 19,
+		["iCount"] = 1,
+		["px"] = 1267,
+		["py"] = 864,
+		["I1"] = 2,
+		["y"] = 492,
 	},
-	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
-	},
-	["Dancing Shoes_Spells"] = {
-	},
-	["sidasacmain_sidasachotkeys"] = {
-	},
-	["Zopper_ult"] = {
-	},
-	["Dancing Shoes_Items"] = {
-	},
-	["HTTF Prediction_Collision"] = {
-	},
-	["Dancing Shoes_DrawSub"] = {
-	},
-	["SxOrb_mastery"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasacautocarrysub"] = {
-	},
-	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
-	},
-	["sidasacmain_sidasacskills_WZephyr"] = {
-		["LaneClearFarmStyle"] = 1,
-		["towerFarm"] = false,
-		["AutoCarryMana"] = 0,
-		["MixedMode"] = true,
-		["_tsInstances"] = {
-		},
-		["LaneClear"] = false,
-		["Killsteal"] = false,
-		["MixedModeMana"] = 0,
-		["LaneClearMana"] = 0,
-		["Jungle"] = false,
-		["AutoCarry"] = true,
-		["_param"] = {
-		},
-	},
-	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
-	},
-	["Zopper_interrupt"] = {
+	["HTTF Blitzcrank_Clear_JFarm"] = {
 	},
 	["sidasacmain"] = {
 	},
-	["Zopper_w"] = {
+	["Thresh_other"] = {
 	},
-	["SxOrb_debug"] = {
+	["HTTF Blitzcrank_HitChance_Harass"] = {
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["Q"] = 1.93,
 	},
-	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	["Thresh_orb_debug"] = {
 	},
-	["SxOrb_keys"] = {
-	},
-	["Zopper"] = {
-	},
-	["sidasacmain_sidasacts"] = {
-	},
-	["SxOrb_color"] = {
-	},
-	["VPrediction_Collision"] = {
+	["Thresh_orb_draw"] = {
 	},
 	["VPrediction"] = {
 	},
-	["SxOrb_TS_prioritySettings"] = {
+	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
+	},
+	["Dancing Shoes_Flash"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacminionhealthsub"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	},
+	["Zopper_interrupt"] = {
+	},
+	["SxOrb_general"] = {
+	},
+	["Thresh_orb_farm"] = {
+	},
+	["Thresh_orb_color"] = {
+	},
+	["sidasacmain_sidasacskills"] = {
+	},
+	["sidasacmain_sidasacsubstream"] = {
+	},
+	["HTTF Blitzcrank_BlackList_Combo"] = {
+	},
+	["Dancing Shoes_Items"] = {
+	},
+	["Thresh_Int"] = {
+	},
+	["Thresh_orb_keys_toggle"] = {
+	},
+	["myVision_general"] = {
+	},
+	["Zopper_combo"] = {
+	},
+	["HTTF Blitzcrank_Combo"] = {
 	},
 	["SxOrb_draw"] = {
+	},
+	["sidasacmain_sidasacmelee"] = {
+	},
+	["HTTF Blitzcrank_HitChance_Combo"] = {
+	},
+	["sidasacmain_sidasacconfig"] = {
+	},
+	["HTTF Blitzcrank_LastHit"] = {
+	},
+	["OrbwalkManager24052015Thresh"] = {
+	},
+	["sidasacmain_sidasacts"] = {
+	},
+	["Dancing Shoes_Keys"] = {
+	},
+	["sidasacmain_sidasacadvanced"] = {
+	},
+	["Zopper"] = {
+	},
+	["SxOrb_keys_toggle"] = {
+	},
+	["myVision"] = {
+	},
+	["Zopper_ks"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
+	},
+	["Thresh_orb_keys"] = {
+	},
+	["sidasacmain_sidasacexperimental"] = {
+	},
+	["sidasacmain_sidasacskills_QHowlingGale"] = {
+		["LaneClear"] = false,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+		["towerFarm"] = false,
+		["Jungle"] = false,
+		["AutoCarryMana"] = 0,
+		["AutoCarry"] = true,
+		["LaneClearMana"] = 0,
+		["Killsteal"] = false,
+		["MixedMode"] = true,
+		["LaneClearFarmStyle"] = 1,
+		["MixedModeMana"] = 0,
+	},
+	["Zopper_w"] = {
+	},
+	["Zopper_draw"] = {
+	},
+	["VPrediction_Collision"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacother"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
+	},
+	["SxOrb_farm"] = {
+	},
+	["myVision_ally"] = {
+		["spells"] = true,
+		["buffs"] = false,
+		["active"] = true,
+		["_param"] = {
+		},
+		["_tsInstances"] = {
+		},
+	},
+	["SxOrb_TS_prioritySettings"] = {
 	},
 }
