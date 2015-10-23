@@ -109,7 +109,7 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - Any Champion.
 
 **Challenger Series**
-- *A work-in-progress script based on Sida's Auto Carry (must be run at the same time) to try to improve the potential of what the script can achieve.*
+- *A work-in-progress script based on Sida's Auto Carry (must be run at the same time) to try to improve the potential of what the script can achieve. Visit http://forum.botoflegends.com/topic/64012- for more information.*
 - Ashe
 - Corki
 - Graves
