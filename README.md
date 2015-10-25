@@ -104,6 +104,17 @@ Below is a list of the scripts within 'Bundles' and the champions they apply for
 - *Used for automatically shielding yourself from either auto-attacks or from abilities that would otherwise kill you. Test in a custom game first.*
 - Any Champion with a heal or shield of any sort. *This is including Braum's Unbreakable, Kayle's Intervention, Yasuo's Wind Wall and any other ability that prevents death or heals/shields in any way. This includes active items.*
 
+**MasterSeries.lua**
+- *A bundle for top lane meta champions. Visit http://forum.botoflegends.com/topic/59755- for more information.*
+- Dr.Mundo
+- Gangplank
+- Olaf
+- Poppy
+- Renekton
+- Riven
+- Rumble
+- Shen
+
 **Sida's Auto Carry [PAID]**
 - *Reborn is an all-round orbwalk script packed with tons of features such as skills, farming, jungle clearing, plugins and much more. Visit http://forum.botoflegends.com/topic/6584- for more information.*
 - Any Champion.

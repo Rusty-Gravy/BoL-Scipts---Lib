@@ -1,283 +1,508 @@
 return {
-	["sidasacmain_sidasacsubhumanizer"] = {
-	},
-	["HTTF Prediction_Collision"] = {
-	},
-	["sidasacmain_sidasacskills_WZephyr"] = {
-		["LaneClear"] = false,
-		["_param"] = {
-		},
-		["_tsInstances"] = {
-		},
-		["towerFarm"] = false,
-		["Jungle"] = false,
-		["AutoCarryMana"] = 0,
-		["AutoCarry"] = true,
-		["LaneClearMana"] = 0,
-		["Killsteal"] = false,
-		["MixedMode"] = true,
-		["LaneClearFarmStyle"] = 1,
-		["MixedModeMana"] = 0,
-	},
-	["HTTF Blitzcrank_Draw"] = {
-		["Hitchance"] = true,
-		["Path"] = false,
-		["On"] = true,
-		["R"] = true,
-		["AA"] = true,
-		["_param"] = {
-		},
-		["_tsInstances"] = {
-		},
-		["Q"] = true,
-	},
-	["Dancing Shoes_DrawSub"] = {
-	},
-	["sidasacmain_sidasacfarming_sidasacpredictionfarm"] = {
-	},
-	["Thresh_orb_general"] = {
-	},
 	["Zopper_ult"] = {
-	},
-	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
-	},
-	["Thresh_orb_TS_prioritySettings"] = {
-	},
-	["Dancing Shoes"] = {
-	},
-	["sidasacmain_sidasacitems_sidasaclaneclearitemssub"] = {
-	},
-	["Thresh_keys"] = {
 	},
 	["sidasacmain_sidasacsetup_sidasacautocarrysub"] = {
 	},
-	["HTTF Blitzcrank_Draw_Target"] = {
+	["Big Fat Orbwalker_OrbST"] = {
 	},
-	["sidasacmain_sidasacpets"] = {
-	},
-	["Thresh_orb_mastery"] = {
-	},
-	["Thresh_cmb"] = {
-		["q1"] = 3,
-		["q2"] = 1,
-		["flayc"] = 1,
-		["_param"] = {
-		},
-		["cage"] = 1,
-		["flayamount"] = 1,
-		["heal"] = 1,
-		["aflay"] = 1,
-		["boxamount"] = 2,
-		["_tsInstances"] = {
-		},
-		["flay"] = 2,
-	},
-	["SxOrb_mastery"] = {
-	},
-	["SxOrb_debug"] = {
-	},
-	["HTTF Blitzcrank_BlackList_Harass"] = {
-	},
-	["SxOrb_TS"] = {
-	},
-	["Thresh_draw"] = {
-		["drawT"] = true,
-		["qLine"] = true,
-		["drawC"] = true,
-		["bRange"] = false,
-		["qRange"] = true,
-		["_param"] = {
-		},
-		["_tsInstances"] = {
-		},
-		["aaRange"] = false,
-	},
-	["myVision_enemy"] = {
-	},
-	["SxOrb_keys"] = {
-	},
-	["HTTF Blitzcrank_Draw_PP"] = {
-	},
-	["HTTF Blitzcrank_Misc"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
-	},
-	["HTTF Blitzcrank_Flee"] = {
-	},
-	["HTTF Blitzcrank_KillSteal"] = {
-		["On"] = true,
-		["_param"] = {
-		},
-		["_tsInstances"] = {
-		},
-		["Q"] = true,
-	},
-	["HTTF Blitzcrank_JSteal"] = {
-	},
-	["SxOrb_color"] = {
-	},
-	["Dancing Shoes_Spells"] = {
-	},
-	["VPrediction_Developers"] = {
-	},
-	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
-	},
-	["HTTF Blitzcrank_Harass"] = {
-	},
-	["HTTF Prediction"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
-	},
-	["sidasacmain_sidasachotkeys"] = {
-	},
-	["Thresh_orb_TS"] = {
-	},
-	["Menu"] = {
-		["draw"] = {
-			["x"] = 19,
-			["y"] = 492,
-		},
-		["pDraw"] = {
-			["x"] = 1267,
-			["y"] = 864,
-		},
-		["menuKey"] = 16,
-	},
-	["Master"] = {
-		["useTS"] = false,
-		["PS1"] = 0,
-		["name1"] = "HTTF Prediction",
-		["P1"] = 6,
-		["osTime"] = 1445552066,
-		["x"] = 19,
-		["iCount"] = 1,
-		["px"] = 1267,
-		["py"] = 864,
-		["I1"] = 2,
-		["y"] = 492,
-	},
-	["HTTF Blitzcrank_Clear_JFarm"] = {
+	["SxOrb_draw"] = {
 	},
 	["sidasacmain"] = {
 	},
-	["Thresh_other"] = {
+	["SWAzir_m_LastHit"] = {
 	},
-	["HTTF Blitzcrank_HitChance_Harass"] = {
-		["_param"] = {
-		},
+	["Scriptology_Orbwalker_farm"] = {
+	},
+	["Scriptology_Awareness"] = {
 		["_tsInstances"] = {
 		},
-		["Q"] = 1.93,
+		["activate"] = false,
+		["_param"] = {
+		},
 	},
-	["Thresh_orb_debug"] = {
+	["HTTF Blitzcrank_Combo"] = {
 	},
-	["Thresh_orb_draw"] = {
+	["SWAzir_f_m"] = {
 	},
-	["VPrediction"] = {
+	["SxOrb_keys_toggle"] = {
 	},
-	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
+	["SWAzir_d"] = {
 	},
-	["Dancing Shoes_Flash"] = {
+	["sidasacmain_sidasacsetup_sidasaclasthitsub"] = {
+	},
+	["DancingShoes2_Items_FOTM"] = {
+	},
+	["HTTF Blitzcrank_KillSteal"] = {
+		["On"] = true,
+		["Q"] = true,
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+	},
+	["HTTF Blitzcrank_Draw_PP"] = {
+	},
+	["SWAzir_m_LaneClear"] = {
+	},
+	["Scriptology_Activator"] = {
+		["_tsInstances"] = {
+		},
+		["activate"] = false,
+		["_param"] = {
+		},
+	},
+	["myVision_ally"] = {
+		["_tsInstances"] = {
+		},
+		["active"] = true,
+		["_param"] = {
+		},
+		["buffs"] = false,
+		["spells"] = true,
+	},
+	["Dancing Shoes"] = {
 	},
 	["sidasacmain_sidasacdrawing_sidasacminionhealthsub"] = {
 	},
-	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	["DancingShoes2_Spells_Curse of the Sad Mummy [R]"] = {
 	},
-	["Zopper_interrupt"] = {
+	["SWAzir_s"] = {
+	},
+	["Scriptology_Orbwalker_TS_prioritySettings"] = {
+	},
+	["Dancing Shoes_Flash"] = {
+	},
+	["sidasacmain_sidasacconfig"] = {
+	},
+	["myVision"] = {
+	},
+	["Scriptology_Azir_Harass"] = {
 	},
 	["SxOrb_general"] = {
 	},
-	["Thresh_orb_farm"] = {
+	["SxOrb_color"] = {
 	},
-	["Thresh_orb_color"] = {
+	["Scriptology_Awareness_wt"] = {
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["ward"] = false,
 	},
-	["sidasacmain_sidasacskills"] = {
+	["Zopper_interrupt"] = {
+	},
+	["sidasacmain_sidasacfarming_sidasacpredictionfarm"] = {
 	},
 	["sidasacmain_sidasacsubstream"] = {
 	},
+	["Thresh_orb_farm"] = {
+	},
+	["VPrediction_Collision"] = {
+	},
+	["Thresh_keys"] = {
+	},
+	["Scriptology_Orbwalker"] = {
+		["_tsInstances"] = {
+		},
+		["activate"] = true,
+		["info"] = 2,
+		["_param"] = {
+		},
+	},
 	["HTTF Blitzcrank_BlackList_Combo"] = {
 	},
-	["Dancing Shoes_Items"] = {
+	["Scriptology_Prediction_LaneClear"] = {
 	},
-	["Thresh_Int"] = {
+	["Scriptology_Prediction_Harass"] = {
 	},
 	["Thresh_orb_keys_toggle"] = {
 	},
 	["myVision_general"] = {
 	},
-	["Zopper_combo"] = {
-	},
-	["HTTF Blitzcrank_Combo"] = {
-	},
-	["SxOrb_draw"] = {
-	},
-	["sidasacmain_sidasacmelee"] = {
-	},
-	["HTTF Blitzcrank_HitChance_Combo"] = {
-	},
-	["sidasacmain_sidasacconfig"] = {
-	},
-	["HTTF Blitzcrank_LastHit"] = {
+	["DancingShoes2_Spells_Infected Cleaver [Q]"] = {
 	},
 	["OrbwalkManager24052015Thresh"] = {
 	},
-	["sidasacmain_sidasacts"] = {
-	},
-	["Dancing Shoes_Keys"] = {
-	},
-	["sidasacmain_sidasacadvanced"] = {
-	},
-	["Zopper"] = {
-	},
-	["SxOrb_keys_toggle"] = {
-	},
-	["myVision"] = {
-	},
-	["Zopper_ks"] = {
-	},
-	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
-	},
-	["Thresh_orb_keys"] = {
-	},
-	["sidasacmain_sidasacexperimental"] = {
-	},
-	["sidasacmain_sidasacskills_QHowlingGale"] = {
-		["LaneClear"] = false,
-		["_param"] = {
-		},
-		["_tsInstances"] = {
-		},
-		["towerFarm"] = false,
-		["Jungle"] = false,
-		["AutoCarryMana"] = 0,
-		["AutoCarry"] = true,
-		["LaneClearMana"] = 0,
-		["Killsteal"] = false,
-		["MixedMode"] = true,
-		["LaneClearFarmStyle"] = 1,
-		["MixedModeMana"] = 0,
-	},
-	["Zopper_w"] = {
+	["Thresh_orb_draw"] = {
 	},
 	["Zopper_draw"] = {
 	},
-	["VPrediction_Collision"] = {
+	["Zopper_w"] = {
 	},
-	["sidasacmain_sidasacdrawing_sidasacother"] = {
+	["sidasacmain_sidasacfarming_sidasacsubmasteries"] = {
 	},
-	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
+	["Scriptology_Cassiopeia_Harass"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasaclaneclearsub"] = {
+	},
+	["HTTF Blitzcrank_LastHit"] = {
+	},
+	["DancingShoes2_Spells_Counter Strike [E]"] = {
+	},
+	["Dancing Shoes_Items"] = {
+	},
+	["Thresh_Int"] = {
+	},
+	["Thresh_orb_color"] = {
+	},
+	["DancingShoes2_Keys"] = {
+	},
+	["HTTF Blitzcrank_BlackList_Harass"] = {
+	},
+	["Scriptology_Azir_Misc"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacautocarryitemssub"] = {
+	},
+	["Scriptology_Awareness_wp"] = {
+		["_tsInstances"] = {
+		},
+		["wpa"] = false,
+		["_param"] = {
+		},
+		["wpe"] = false,
+		["wps"] = false,
+	},
+	["Big Fat Orbwalker_OrbIT"] = {
+	},
+	["HTTF Blitzcrank_JSteal"] = {
+	},
+	["Thresh_cmb"] = {
+		["flayamount"] = 1,
+		["_param"] = {
+		},
+		["boxamount"] = 2,
+		["cage"] = 1,
+		["flayc"] = 1,
+		["_tsInstances"] = {
+		},
+		["flay"] = 2,
+		["heal"] = 1,
+		["aflay"] = 1,
+		["q1"] = 3,
+		["q2"] = 1,
+	},
+	["SWAzir_ts"] = {
+	},
+	["Scriptology_Azir_LaneClear"] = {
+	},
+	["Scriptology_Orbwalker_debug"] = {
+	},
+	["Zopper_ks"] = {
+	},
+	["sidasacmain_sidasacpets"] = {
+	},
+	["Scriptology_Cassiopeia_Misc"] = {
+	},
+	["Scriptology_Cassiopeia_kConfig"] = {
+	},
+	["Scriptology_Cassiopeia_Killsteal"] = {
+	},
+	["sidasacmain_sidasacsetup_sidasacmixedmodesub"] = {
+	},
+	["HTTF Blitzcrank_Draw"] = {
+		["_tsInstances"] = {
+		},
+		["On"] = true,
+		["AA"] = true,
+		["_param"] = {
+		},
+		["R"] = true,
+		["Q"] = true,
+		["Path"] = false,
+		["Hitchance"] = true,
+	},
+	["SWAzir_k"] = {
+	},
+	["Scriptology_Cassiopeia_LastHit"] = {
+	},
+	["Scriptology_Cassiopeia_Combo"] = {
+	},
+	["Scriptology_Cassiopeia_Draws"] = {
+	},
+	["Master"] = {
+		["py1"] = 896,
+		["y"] = 492,
+		["x"] = 19,
+		["iCount"] = 1,
+		["osTime"] = 1445739088,
+		["color"] = {
+			["green"] = 1409321728,
+			["lgrey"] = 1413167931,
+			["grey"] = 4290427578,
+		},
+		["row"] = 210,
+		["P1"] = 8,
+		["midSize"] = 7.5,
+		["cellSize"] = 16,
+		["I1"] = 3,
+		["py"] = 864,
+		["useTS"] = true,
+		["width"] = 300,
+		["py2"] = 864,
+		["name1"] = "Scriptology",
+		["fontSize"] = 15,
+		["px"] = 1267,
+		["PS1"] = 0,
+	},
+	["Thresh_orb_debug"] = {
 	},
 	["SxOrb_farm"] = {
 	},
-	["myVision_ally"] = {
-		["spells"] = true,
-		["buffs"] = false,
-		["active"] = true,
+	["HTTF Blitzcrank_Flee"] = {
+	},
+	["DancingShoes2_Spells_Time Warp [E]"] = {
+	},
+	["Dancing Shoes_DrawSub"] = {
+	},
+	["Scriptology_Azir_Combo"] = {
+	},
+	["Scriptology_Azir_Draws"] = {
+	},
+	["Thresh_orb_general"] = {
+	},
+	["SWAzir"] = {
+	},
+	["SxOrb_debug"] = {
+	},
+	["Zopper_combo"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacenemyrangesub"] = {
+	},
+	["sidasacmain_sidasacsubhumanizer"] = {
+	},
+	["Scriptology_Evade"] = {
+	},
+	["sidasacmain_sidasacts"] = {
+	},
+	["Scriptology_Activator_i"] = {
+	},
+	["HTTF Prediction"] = {
+	},
+	["VPrediction_Developers"] = {
+	},
+	["SWAzir_m_Combo"] = {
+	},
+	["HTTF Blitzcrank_HitChance_Harass"] = {
+		["_tsInstances"] = {
+		},
+		["Q"] = 1.93,
 		["_param"] = {
 		},
+	},
+	["DancingShoes2_Spells_Time Bomb [Q]"] = {
+	},
+	["SxOrb_mastery"] = {
+	},
+	["SWAzir_t"] = {
+	},
+	["HTTF Blitzcrank_HitChance_Combo"] = {
+	},
+	["SWAzir_m_Harass"] = {
+	},
+	["SxOrb_TS_prioritySettings"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasacother"] = {
+	},
+	["Scriptology_Prediction_LastHit"] = {
+	},
+	["Dancing Shoes_Keys"] = {
+	},
+	["sidasacmain_sidasacitems_sidasaclaneclearitemssub"] = {
+	},
+	["DancingShoes2_Items_Locket"] = {
+	},
+	["Thresh_other"] = {
+	},
+	["myVision_enemy"] = {
+	},
+	["Big Fat Orbwalker_OrbKB"] = {
+	},
+	["Scriptology_Orbwalker_color"] = {
+	},
+	["DancingShoes2_Spells_Bandage Toss [Q]"] = {
+	},
+	["DancingShoes2_Items_Seraphs"] = {
+	},
+	["Scriptology_Orbwalker_mastery"] = {
+	},
+	["DancingShoes2_Spells_Three Talon Strike [Q]"] = {
+	},
+	["SWAzir_i_Harass"] = {
+	},
+	["SxOrb_keys"] = {
+	},
+	["DancingShoes2_Spells_Leap Strike [Q]"] = {
+	},
+	["SWAzir_d_md"] = {
+	},
+	["sidasacmain_sidasacskills_WZephyr"] = {
+		["MixedModeMana"] = 0,
+		["towerFarm"] = false,
+		["_param"] = {
+		},
+		["Jungle"] = false,
+		["LaneClearMana"] = 0,
+		["LaneClear"] = false,
+		["MixedMode"] = true,
+		["AutoCarryMana"] = 0,
+		["Killsteal"] = false,
+		["_tsInstances"] = {
+		},
+		["LaneClearFarmStyle"] = 1,
+		["AutoCarry"] = true,
+	},
+	["sidasacmain_sidasachotkeys"] = {
+	},
+	["Scriptology_ts"] = {
+	},
+	["HTTF Prediction_Collision"] = {
+	},
+	["Zopper"] = {
+	},
+	["Menu"] = {
+		["pDraw"] = {
+			["x"] = 1267,
+			["y"] = 864,
+		},
+		["menuKey"] = 16,
+		["draw"] = {
+			["x"] = 19,
+			["y"] = 492,
+		},
+	},
+	["Scriptology_Cassiopeia_LaneClear"] = {
+	},
+	["VPrediction"] = {
+	},
+	["sidasacmain_sidasacdrawing_sidasaccirclessub"] = {
+	},
+	["Scriptology_Orbwalker_keys_toggle"] = {
+	},
+	["HTTF Blitzcrank_Draw_Target"] = {
+	},
+	["DancingShoes2_Items_Zhonya"] = {
+	},
+	["DancingShoes2_Flash"] = {
+	},
+	["DancingShoes2_Spells_Tantrum [E]"] = {
+	},
+	["DancingShoes2_General"] = {
+	},
+	["DancingShoes2_Spells_Empower [W]"] = {
+	},
+	["Scriptology_Orbwalker_general"] = {
+	},
+	["Scriptology_Orbwalker_draw"] = {
+	},
+	["sidasacmain_sidasacexperimental"] = {
+	},
+	["sidasacmain_sidasacadvanced"] = {
+	},
+	["Scriptology_Orbwalker_TS"] = {
+	},
+	["Thresh_orb_TS_prioritySettings"] = {
+	},
+	["HTTF Blitzcrank_Harass"] = {
+	},
+	["Scriptology_Awareness_cd"] = {
+		["_tsInstances"] = {
+		},
+		["_param"] = {
+		},
+		["cds"] = false,
+		["cda"] = false,
+		["cde"] = false,
+	},
+	["sidasacmain_sidasacskills"] = {
+	},
+	["SWAzir_i_Combo"] = {
+	},
+	["Big Fat Orbwalker"] = {
+	},
+	["Scriptology_Orbwalker_keys"] = {
+		["lastHit"] = false,
+		["laneClear"] = false,
+		["_param"] = {
+			[1] = {
+				["key"] = 32,
+			},
+			[2] = {
+				["key"] = 67,
+			},
+			[3] = {
+				["key"] = 86,
+			},
+			[4] = {
+				["key"] = 88,
+			},
+		},
+		["harass"] = false,
+		["fight"] = false,
 		["_tsInstances"] = {
 		},
 	},
-	["SxOrb_TS_prioritySettings"] = {
+	["SWAzir_i_Farm"] = {
+	},
+	["sidasacmain_sidasacmelee"] = {
+	},
+	["Scriptology_Azir_Killsteal"] = {
+	},
+	["HTTF Blitzcrank_Misc"] = {
+	},
+	["DancingShoes2"] = {
+	},
+	["Thresh_orb_TS"] = {
+	},
+	["Dancing Shoes_Spells"] = {
+	},
+	["sidasacmain_sidasacitems_sidasacmixedmodeitemssub"] = {
+	},
+	["Thresh_orb_mastery"] = {
+	},
+	["Scriptology_Azir_kConfig"] = {
+	},
+	["DancingShoes2_Channels"] = {
+	},
+	["Scriptology_Prediction_Combo"] = {
+	},
+	["sidasacmain_sidasacskills_QHowlingGale"] = {
+		["MixedModeMana"] = 0,
+		["towerFarm"] = false,
+		["_param"] = {
+		},
+		["Jungle"] = false,
+		["LaneClearMana"] = 0,
+		["LaneClear"] = false,
+		["MixedMode"] = true,
+		["AutoCarryMana"] = 0,
+		["Killsteal"] = false,
+		["_tsInstances"] = {
+		},
+		["LaneClearFarmStyle"] = 1,
+		["AutoCarry"] = true,
+	},
+	["DancingShoes2_Spells_Audacious Charge [E]"] = {
+	},
+	["Thresh_draw"] = {
+		["drawT"] = true,
+		["bRange"] = false,
+		["qRange"] = true,
+		["_param"] = {
+		},
+		["qLine"] = true,
+		["drawC"] = true,
+		["_tsInstances"] = {
+		},
+		["aaRange"] = false,
+	},
+	["SWAzir_f"] = {
+	},
+	["SxOrb_TS"] = {
+	},
+	["DancingShoes2_Spells_Crescent Sweep [R]"] = {
+	},
+	["Thresh_orb_keys"] = {
+	},
+	["HTTF Blitzcrank_Clear_JFarm"] = {
 	},
 }
